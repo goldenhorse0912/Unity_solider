@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4362933062795121528
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2339943115791365756, guid: f071d847c4d8eff4bb92cd72c2a775be,
+        type: 3}
+      propertyPath: playOnAwake
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2339943115791365756, guid: f071d847c4d8eff4bb92cd72c2a775be,
+        type: 3}
+      propertyPath: VelocityModule.enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2339943115791365756, guid: f071d847c4d8eff4bb92cd72c2a775be,
+        type: 3}
+      propertyPath: VelocityModule.y.scalar
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2339943115791365756, guid: f071d847c4d8eff4bb92cd72c2a775be,
+        type: 3}
+      propertyPath: InitialModule.startSize.scalar
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4757559552963070506, guid: f071d847c4d8eff4bb92cd72c2a775be,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 2.4897532
+      objectReference: {fileID: 0}
+    - target: {fileID: 4757559552963070506, guid: f071d847c4d8eff4bb92cd72c2a775be,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.63
+      objectReference: {fileID: 0}
+    - target: {fileID: 4757559552963070506, guid: f071d847c4d8eff4bb92cd72c2a775be,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 36.400707
+      objectReference: {fileID: 0}
+    - target: {fileID: 4757559552963070506, guid: f071d847c4d8eff4bb92cd72c2a775be,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4757559552963070506, guid: f071d847c4d8eff4bb92cd72c2a775be,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4757559552963070506, guid: f071d847c4d8eff4bb92cd72c2a775be,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4757559552963070506, guid: f071d847c4d8eff4bb92cd72c2a775be,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4757559552963070506, guid: f071d847c4d8eff4bb92cd72c2a775be,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4757559552963070506, guid: f071d847c4d8eff4bb92cd72c2a775be,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4757559552963070506, guid: f071d847c4d8eff4bb92cd72c2a775be,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6179124552669749310, guid: f071d847c4d8eff4bb92cd72c2a775be,
+        type: 3}
+      propertyPath: m_Name
+      value: ExplosionUp Variant
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: f071d847c4d8eff4bb92cd72c2a775be, type: 3}

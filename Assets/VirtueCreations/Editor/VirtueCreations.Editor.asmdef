@@ -1,0 +1,19 @@
+{
+    "name": "VirtueCreations.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a490fdf7b8a9f3c4f8300d8e043216a1",
+        "GUID:504e31810272d93479e7f195a3e58bc0"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

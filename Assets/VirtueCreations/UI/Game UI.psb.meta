@@ -1,0 +1,1599 @@
+fileFormatVersion: 2
+guid: 573a3711018823244aaa7924c101e252
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: Game UI_1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 5176
+      height: 1920
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData:
+  - name: Defeat Header
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1368
+      width: 884
+      height: 182
+    spriteID: 3cb022438c937f143917d1b01568a3e0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1368}
+    spritePosition: {x: 1494, y: 1152}
+  - name: Mummy Head
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 320
+      y: 1558
+      width: 199
+      height: 285
+    spriteID: 9008086e507a822408656f5ec64077f8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 320, y: 1558}
+    spritePosition: {x: 1817, y: 1269}
+  - name: Decor Left
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 859
+      y: 590
+      width: 156
+      height: 253
+    spriteID: 68a9ba27bdcd88f4eb1dc1e9f3c0e278
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 859, y: 590}
+    spritePosition: {x: 1647, y: 1286}
+  - name: Decor Right
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 850
+      y: 4
+      width: 156
+      height: 253
+    spriteID: c8c56ed2a3df70b4ca84ebc057fe9c92
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 850, y: 4}
+    spritePosition: {x: 2060, y: 1286}
+  - name: Retry Button
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 545
+      y: 348
+      width: 453
+      height: 146
+    spriteID: a075fbdf611b63d4abf0685bdb1df557
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 545, y: 348}
+    spritePosition: {x: 1710, y: 471}
+  - name: Defeat Bg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 590
+      width: 531
+      height: 579
+    spriteID: 854356df7eb95134fbe4236e965c0c36
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 590}
+    spritePosition: {x: 1671, y: 754}
+  - name: Web Right
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 527
+      y: 1840
+      width: 155
+      height: 179
+    spriteID: 4f02d148c5fcb9b4bb6e484db365a887
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 527, y: 1840}
+    spritePosition: {x: 2152, y: 1015}
+  - name: Web Left
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 527
+      y: 1558
+      width: 177
+      height: 274
+    spriteID: 45d537f54d08e44499f127051d2fe466
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 527, y: 1558}
+    spritePosition: {x: 1567, y: 946}
+  - name: Continue Button
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 543
+      y: 906
+      width: 453
+      height: 146
+    spriteID: 69306986c86e2f44d913cef7bcc16c9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 543, y: 906}
+    spritePosition: {x: 470, y: 471}
+  - name: Victory Header
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1177
+      width: 884
+      height: 183
+    spriteID: 0d8a6dc48efc04048b3289f1fca37ee5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1177}
+    spritePosition: {x: 254, y: 1150}
+  - name: Victory Bg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 533
+      height: 578
+    spriteID: cab55336b6de61747ad61c92701c52d8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 429, y: 754}
+  - name: Decor Left
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 543
+      y: 590
+      width: 308
+      height: 308
+    spriteID: 449f9e2efa1a500408f1e72a5c7a245d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 543, y: 590}
+    spritePosition: {x: 312, y: 1234}
+  - name: Decor Right
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1558
+      width: 308
+      height: 308
+    spriteID: e979ecf7d050256479fe705902113d59
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1558}
+    spritePosition: {x: 773, y: 1234}
+  - name: Sphinx Head
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 545
+      y: 4
+      width: 297
+      height: 336
+    spriteID: 9ac6c5836ab38ee4c877c499f43c2c5a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 545, y: 4}
+    spritePosition: {x: 548, y: 1220}
+  rigSpriteImportData:
+  - name: Retry
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 545
+      y: 487
+      width: 176
+      height: 47
+    spriteID: 3c4ca2dd8d76e4b4eb371a1b01cc06d9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 545, y: 487}
+    spritePosition: {x: 1849, y: 519}
+  - name: Rectangle 16 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 679
+      y: 1112
+      width: 0
+      height: 0
+    spriteID: c54bc41246513ee45b5fdbcb4e9d01a1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 233, y: 972}
+    spritePosition: {x: 2160, y: 613}
+  - name: Layer 6
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1558
+      width: 528
+      height: 192
+    spriteID: 0fe554058bd6f614690c32287316a26d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1558}
+    spritePosition: {x: 1672, y: 504}
+  - name: Rectangle 16 copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 540
+      y: 1558
+      width: 451
+      height: 131
+    spriteID: ec096519aab5910468a9d7676563cf7b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 540, y: 1558}
+    spritePosition: {x: 1712, y: 484}
+  - name: Rectangle 16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 679
+      y: 1120
+      width: 0
+      height: 0
+    spriteID: 967f3680cefaf11449cf67214442fc93
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 233, y: 980}
+    spritePosition: {x: 2160, y: 613}
+  - name: Header
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1368
+      width: 884
+      height: 182
+    spriteID: 76ca6de7cb0347f49b504bd8185b6149
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1368}
+    spritePosition: {x: 1494, y: 1152}
+  - name: Mummy head
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 679
+      y: 1128
+      width: 0
+      height: 0
+    spriteID: 71d89854b64e790459945071690e4d67
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 361, y: 810}
+    spritePosition: {x: 2068, y: 1574}
+  - name: Decor 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 850
+      y: 4
+      width: 156
+      height: 253
+    spriteID: d9b4eb78f79050947b30ff1903a9d4e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 850, y: 4}
+    spritePosition: {x: 1647, y: 1286}
+  - name: Decor 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 725
+      y: 1758
+      width: 156
+      height: 253
+    spriteID: fd38961871fd1e34492691a22b647d2e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 725, y: 1758}
+    spritePosition: {x: 2060, y: 1286}
+  - name: + 150
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 543
+      y: 1112
+      width: 128
+      height: 37
+    spriteID: a3693a4b267504e4aa59c56fca5f6647
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 543, y: 1112}
+    spritePosition: {x: 1896, y: 983}
+  - name: Coin Icon
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 896
+      y: 1368
+      width: 93
+      height: 95
+    spriteID: e87475e0d4e9ffc48ab8e9b1e0d6b48d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 896, y: 1368}
+    spritePosition: {x: 1779, y: 955}
+  - name: Coin Bg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 679
+      y: 1136
+      width: 0
+      height: 0
+    spriteID: 3be7e5749cca15e489ac5419185155cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 404, y: 1059}
+    spritePosition: {x: 2077, y: 1041}
+  - name: Defeat Bg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 590
+      width: 531
+      height: 579
+    spriteID: cbc84b32a6b7b3644a77215a1c431ee7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 590}
+    spritePosition: {x: 1671, y: 754}
+  - name: Web 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 707
+      y: 590
+      width: 155
+      height: 179
+    spriteID: 754607e6688295948809399856e6ef68
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 707, y: 590}
+    spritePosition: {x: 2152, y: 1015}
+  - name: Web 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 540
+      y: 1758
+      width: 177
+      height: 274
+    spriteID: 710db06210fe00e40a8920d21676cff7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 540, y: 1758}
+    spritePosition: {x: 1567, y: 946}
+  - name: CONTINUE
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 540
+      y: 1697
+      width: 302
+      height: 49
+    spriteID: df66d08e9efb82341b46485fb687d49f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 540, y: 1697}
+    spritePosition: {x: 545, y: 519}
+  - name: Rectangle 16 copy
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 679
+      y: 1144
+      width: 0
+      height: 0
+    spriteID: d61952f64dc57f947b6e5d6eae12c671
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 233, y: 1004}
+    spritePosition: {x: 919, y: 614}
+  - name: Layer 8
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1758
+      width: 528
+      height: 192
+    spriteID: 3decf564042e31248a6d039b2962f15c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1758}
+    spritePosition: {x: 431, y: 505}
+  - name: Rectangle 16 copy 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 545
+      y: 348
+      width: 451
+      height: 131
+    spriteID: 6b7c98ab720e8574495b01462ebb66be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 545, y: 348}
+    spritePosition: {x: 471, y: 485}
+  - name: Rectangle 16
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 687
+      y: 1112
+      width: 0
+      height: 0
+    spriteID: 9e4e139336e506b4d8ead1736262702e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 241, y: 972}
+    spritePosition: {x: 919, y: 614}
+  - name: + 150
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 850
+      y: 1697
+      width: 128
+      height: 37
+    spriteID: 4fcfa2dfd77ec00469d56fd1526720a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 850, y: 1697}
+    spritePosition: {x: 656, y: 983}
+  - name: Coin Icon
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 896
+      y: 1177
+      width: 93
+      height: 95
+    spriteID: fa261449f078e6f4289b96e4b53c20b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 896, y: 1177}
+    spritePosition: {x: 539, y: 955}
+  - name: Coin Bg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 687
+      y: 1120
+      width: 0
+      height: 0
+    spriteID: 96e22ce7873ff0a4ebecd3c2dbdf6552
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 412, y: 1043}
+    spritePosition: {x: 837, y: 1040}
+  - name: Header
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1177
+      width: 884
+      height: 183
+    spriteID: d54e4fc929d3c0747bc7b7e1fd888f03
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1177}
+    spritePosition: {x: 254, y: 1150}
+  - name: Victory Bg
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 533
+      height: 578
+    spriteID: 2eefa860e4c40a6459ecd7a666aa2670
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 429, y: 754}
+  - name: Decor 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 543
+      y: 590
+      width: 156
+      height: 253
+    spriteID: 8e8be79dcf0c8474b9d24d947be854b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 543, y: 590}
+    spritePosition: {x: 819, y: 1301}
+  - name: Decor 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 543
+      y: 851
+      width: 156
+      height: 253
+    spriteID: 489e23c0ea7da6f4ab25a998f298f44e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 543, y: 851}
+    spritePosition: {x: 416, y: 1301}
+  - name: Sphinx Head
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 545
+      y: 4
+      width: 297
+      height: 336
+    spriteID: 7b587cd94771ed143a56410f979eb007
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 545, y: 4}
+    spritePosition: {x: 548, y: 1220}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    pivot: {x: 0, y: 0}
+    boneReadOnly: 0
+  platformSettings:
+  - name: DefaultTexturePlatform
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 3
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Server
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 0
+    ignorePlatformSupport: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 0
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  pipeline: {instanceID: 0}
+  pipelineVersion: 
+  padding: 4
+  spriteSizeExpand: 0
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers:
+  - name: Defeat Panel
+    spriteName: Defeat Panel
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 9be8897466e417542bad5b72f2faacfd
+    layerID: 136
+    mosaicPosition: {x: 896, y: 4}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Defeat Header
+    spriteName: Defeat Header
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3cb022438c937f143917d1b01568a3e0
+    layerID: 145
+    mosaicPosition: {x: 4, y: 1368}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Mummy Head
+    spriteName: Mummy Head
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 9008086e507a822408656f5ec64077f8
+    layerID: 1740
+    mosaicPosition: {x: 320, y: 1558}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Decor Left
+    spriteName: Decor Left
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 68a9ba27bdcd88f4eb1dc1e9f3c0e278
+    layerID: 440
+    mosaicPosition: {x: 859, y: 590}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Decor Right
+    spriteName: Decor Right
+    isGroup: 0
+    parentIndex: 0
+    spriteID: c8c56ed2a3df70b4ca84ebc057fe9c92
+    layerID: 437
+    mosaicPosition: {x: 850, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Retry Button
+    spriteName: Retry Button
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a075fbdf611b63d4abf0685bdb1df557
+    layerID: 258
+    mosaicPosition: {x: 545, y: 348}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Defeat Bg
+    spriteName: Defeat Bg
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 854356df7eb95134fbe4236e965c0c36
+    layerID: 144
+    mosaicPosition: {x: 4, y: 590}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Web Right
+    spriteName: Web Right
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 4f02d148c5fcb9b4bb6e484db365a887
+    layerID: 209
+    mosaicPosition: {x: 527, y: 1840}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Web Left
+    spriteName: Web Left
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 45d537f54d08e44499f127051d2fe466
+    layerID: 205
+    mosaicPosition: {x: 527, y: 1558}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Victory Panel
+    spriteName: Victory Panel
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 1e112bf8816c5b2489cf0c0805f9cb22
+    layerID: 3
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Continue Button
+    spriteName: Continue Button
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 69306986c86e2f44d913cef7bcc16c9c
+    layerID: 1741
+    mosaicPosition: {x: 543, y: 906}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Victory Header
+    spriteName: Victory Header
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 0d8a6dc48efc04048b3289f1fca37ee5
+    layerID: 50
+    mosaicPosition: {x: 4, y: 1177}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Victory Bg
+    spriteName: Victory Bg
+    isGroup: 0
+    parentIndex: 9
+    spriteID: cab55336b6de61747ad61c92701c52d8
+    layerID: 28
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Decor Left
+    spriteName: Decor Left
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 449f9e2efa1a500408f1e72a5c7a245d
+    layerID: 1752
+    mosaicPosition: {x: 543, y: 590}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Decor Right
+    spriteName: Decor Right
+    isGroup: 0
+    parentIndex: 9
+    spriteID: e979ecf7d050256479fe705902113d59
+    layerID: 1743
+    mosaicPosition: {x: 4, y: 1558}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Sphinx Head
+    spriteName: Sphinx Head
+    isGroup: 0
+    parentIndex: 9
+    spriteID: 9ac6c5836ab38ee4c877c499f43c2c5a
+    layerID: 1384
+    mosaicPosition: {x: 545, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  rigPSDLayers:
+  - name: Defeat Panel
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 70bca650551c48543bab017e7fdcdc19
+    layerID: 136
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Retry Button
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 5f7917d2b076f7546b7b3c9b88efccff
+    layerID: 258
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Retry
+    spriteName: Retry
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 3c4ca2dd8d76e4b4eb371a1b01cc06d9
+    layerID: 131
+    mosaicPosition: {x: 545, y: 487}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rectangle 16 copy
+    spriteName: Rectangle 16 copy
+    isGroup: 0
+    parentIndex: 1
+    spriteID: c54bc41246513ee45b5fdbcb4e9d01a1
+    layerID: 114
+    mosaicPosition: {x: 679, y: 1112}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 6
+    spriteName: Layer 6
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 0fe554058bd6f614690c32287316a26d
+    layerID: 149
+    mosaicPosition: {x: 4, y: 1558}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rectangle 16 copy 2
+    spriteName: Rectangle 16 copy 2
+    isGroup: 0
+    parentIndex: 1
+    spriteID: ec096519aab5910468a9d7676563cf7b
+    layerID: 112
+    mosaicPosition: {x: 540, y: 1558}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rectangle 16
+    spriteName: Rectangle 16
+    isGroup: 0
+    parentIndex: 1
+    spriteID: 967f3680cefaf11449cf67214442fc93
+    layerID: 111
+    mosaicPosition: {x: 679, y: 1120}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Header
+    spriteName: Header
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 76ca6de7cb0347f49b504bd8185b6149
+    layerID: 145
+    mosaicPosition: {x: 4, y: 1368}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Mummy head
+    spriteName: Mummy head
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 71d89854b64e790459945071690e4d67
+    layerID: 198
+    mosaicPosition: {x: 679, y: 1128}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Decor 1
+    spriteName: Decor 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: d9b4eb78f79050947b30ff1903a9d4e6
+    layerID: 440
+    mosaicPosition: {x: 850, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Decor 2
+    spriteName: Decor 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: fd38961871fd1e34492691a22b647d2e
+    layerID: 437
+    mosaicPosition: {x: 725, y: 1758}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: + 150
+    spriteName: + 150
+    isGroup: 0
+    parentIndex: 0
+    spriteID: a3693a4b267504e4aa59c56fca5f6647
+    layerID: 130
+    mosaicPosition: {x: 543, y: 1112}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Coin Icon
+    spriteName: Coin Icon
+    isGroup: 0
+    parentIndex: 0
+    spriteID: e87475e0d4e9ffc48ab8e9b1e0d6b48d
+    layerID: 129
+    mosaicPosition: {x: 896, y: 1368}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Coin Bg
+    spriteName: Coin Bg
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 3be7e5749cca15e489ac5419185155cb
+    layerID: 128
+    mosaicPosition: {x: 679, y: 1136}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Defeat Bg
+    spriteName: Defeat Bg
+    isGroup: 0
+    parentIndex: 0
+    spriteID: cbc84b32a6b7b3644a77215a1c431ee7
+    layerID: 144
+    mosaicPosition: {x: 4, y: 590}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Web 1
+    spriteName: Web 1
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 754607e6688295948809399856e6ef68
+    layerID: 209
+    mosaicPosition: {x: 707, y: 590}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Web 2
+    spriteName: Web 2
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 710db06210fe00e40a8920d21676cff7
+    layerID: 205
+    mosaicPosition: {x: 540, y: 1758}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Victory Panel
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: c157f5ebf878b7b48813b6b45069c872
+    layerID: 3
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: Continue Button
+    spriteName: 
+    isGroup: 1
+    parentIndex: 17
+    spriteID: 8b56853c65f2e9b4ca9e2f16173cb4df
+    layerID: 266
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 1
+  - name: CONTINUE
+    spriteName: CONTINUE
+    isGroup: 0
+    parentIndex: 18
+    spriteID: df66d08e9efb82341b46485fb687d49f
+    layerID: 265
+    mosaicPosition: {x: 540, y: 1697}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rectangle 16 copy
+    spriteName: Rectangle 16 copy
+    isGroup: 0
+    parentIndex: 18
+    spriteID: d61952f64dc57f947b6e5d6eae12c671
+    layerID: 264
+    mosaicPosition: {x: 679, y: 1144}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Layer 6
+    spriteName: 
+    isGroup: 0
+    parentIndex: 18
+    spriteID: 5fd22371584eb7c4b87100d20870fa2d
+    layerID: 263
+    mosaicPosition: {x: 0, y: 0}
+    flatten: 0
+    isImported: 0
+    isVisible: 0
+  - name: Layer 8
+    spriteName: Layer 8
+    isGroup: 0
+    parentIndex: 18
+    spriteID: 3decf564042e31248a6d039b2962f15c
+    layerID: 268
+    mosaicPosition: {x: 4, y: 1758}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rectangle 16 copy 2
+    spriteName: Rectangle 16 copy 2
+    isGroup: 0
+    parentIndex: 18
+    spriteID: 6b7c98ab720e8574495b01462ebb66be
+    layerID: 262
+    mosaicPosition: {x: 545, y: 348}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rectangle 16
+    spriteName: Rectangle 16
+    isGroup: 0
+    parentIndex: 18
+    spriteID: 9e4e139336e506b4d8ead1736262702e
+    layerID: 261
+    mosaicPosition: {x: 687, y: 1112}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: + 150
+    spriteName: + 150
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 4fcfa2dfd77ec00469d56fd1526720a0
+    layerID: 15
+    mosaicPosition: {x: 850, y: 1697}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Coin Icon
+    spriteName: Coin Icon
+    isGroup: 0
+    parentIndex: 17
+    spriteID: fa261449f078e6f4289b96e4b53c20b7
+    layerID: 14
+    mosaicPosition: {x: 896, y: 1177}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Coin Bg
+    spriteName: Coin Bg
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 96e22ce7873ff0a4ebecd3c2dbdf6552
+    layerID: 13
+    mosaicPosition: {x: 687, y: 1120}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Header
+    spriteName: Header
+    isGroup: 0
+    parentIndex: 17
+    spriteID: d54e4fc929d3c0747bc7b7e1fd888f03
+    layerID: 50
+    mosaicPosition: {x: 4, y: 1177}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Victory Bg
+    spriteName: Victory Bg
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 2eefa860e4c40a6459ecd7a666aa2670
+    layerID: 28
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Decor 1
+    spriteName: Decor 1
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 8e8be79dcf0c8474b9d24d947be854b9
+    layerID: 67
+    mosaicPosition: {x: 543, y: 590}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Decor 2
+    spriteName: Decor 2
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 489e23c0ea7da6f4ab25a998f298f44e
+    layerID: 65
+    mosaicPosition: {x: 543, y: 851}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Sphinx Head
+    spriteName: Sphinx Head
+    isGroup: 0
+    parentIndex: 17
+    spriteID: 7b587cd94771ed143a56410f979eb007
+    layerID: 1384
+    mosaicPosition: {x: 545, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting:
+  - spriteId: e9ddeba4bed0b3e4da8df3ab1545584e
+    name: Continue Button
+    layerId: 266
+    flatten: 0
+    isGroup: 1
+    importLayer: 0
+  - spriteId: 04550c0aafa0ac74e99a6c92287d378d
+    name: Retry Button
+    layerId: 258
+    flatten: 0
+    isGroup: 1
+    importLayer: 0
+  - spriteId: 9be8897466e417542bad5b72f2faacfd
+    name: Defeat Panel
+    layerId: 136
+    flatten: 0
+    isGroup: 1
+    importLayer: 0
+  - spriteId: 1e112bf8816c5b2489cf0c0805f9cb22
+    name: Victory Panel
+    layerId: 3
+    flatten: 0
+    isGroup: 1
+    importLayer: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  spriteSizeExpandChanged: 0
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

@@ -1,0 +1,195 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1195968234647959421
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1619838762623979653, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f830a73fb3c618d46bf037d9a3a720d4, type: 2}
+    - target: {fileID: 2504414253075143796, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: gameEvent
+      value: 
+      objectReference: {fileID: 11400000, guid: 17ca6dc538af3c043b74253543769452,
+        type: 2}
+    - target: {fileID: 2504414253075143796, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: unityEventResponse.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 5672373529073935960}
+    - target: {fileID: 2504414253075143796, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: unityEventResponse.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: SearchEnemy
+      objectReference: {fileID: 0}
+    - target: {fileID: 6782631518206447909, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: gunPoint
+      value: 
+      objectReference: {fileID: 3076261913805877806}
+    - target: {fileID: 6782631518206447909, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: isPlayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6782631518206447909, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: troopData
+      value: 
+      objectReference: {fileID: 11400000, guid: 38954fa88d674f546b38c6aff07c5b44,
+        type: 2}
+    - target: {fileID: 6782631518206447909, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: spawnEvent
+      value: 
+      objectReference: {fileID: 11400000, guid: 5728049eb19bf6f42b2fed37ffb6b772,
+        type: 2}
+    - target: {fileID: 6782631518206447909, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: aimTargetPoint
+      value: 
+      objectReference: {fileID: 5658293658537265108}
+    - target: {fileID: 6782631518206447909, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: collectibleValue
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 8061236493464642837, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2
+      objectReference: {fileID: 0}
+    - target: {fileID: 8061236493464642837, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8061236493464642837, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8061236493464642837, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8061236493464642837, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8061236493464642837, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8061236493464642837, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8061236493464642837, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8061236493464642837, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8061236493464642837, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160233904294962008, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: m_Name
+      value: Enemy_Rifle_RagDoll
+      objectReference: {fileID: 0}
+    - target: {fileID: 8160233904294962008, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8665586015263556097, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      propertyPath: healthAmountMax
+      value: 110
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8160233904294962008, guid: 0efa96bc203eb7a4589177f8e948fc82,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8216781503749575545}
+  m_SourcePrefab: {fileID: 100100000, guid: 0efa96bc203eb7a4589177f8e948fc82, type: 3}
+--- !u!4 &3076261913805877806 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4191159296561628499, guid: 0efa96bc203eb7a4589177f8e948fc82,
+    type: 3}
+  m_PrefabInstance: {fileID: 1195968234647959421}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &5658293658537265108 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6782037170264879273, guid: 0efa96bc203eb7a4589177f8e948fc82,
+    type: 3}
+  m_PrefabInstance: {fileID: 1195968234647959421}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5672373529073935960 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6782631518206447909, guid: 0efa96bc203eb7a4589177f8e948fc82,
+    type: 3}
+  m_PrefabInstance: {fileID: 1195968234647959421}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7036337055370974245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd86aa1b7ec4a3a43bf97afce6e41d1f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &7036337055370974245 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8160233904294962008, guid: 0efa96bc203eb7a4589177f8e948fc82,
+    type: 3}
+  m_PrefabInstance: {fileID: 1195968234647959421}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &8216781503749575545
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7036337055370974245}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26db0e3b72f36874097b8385d63ff910, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameEvent: {fileID: 11400000, guid: 4e44d1fa2574e6246b91f3c18e88754b, type: 2}
+  unityEventResponse:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 5672373529073935960}
+        m_TargetAssemblyTypeName: VIRTUE.WalkingTroop, VirtueCreations.Scripts
+        m_MethodName: AttackBuilding
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2

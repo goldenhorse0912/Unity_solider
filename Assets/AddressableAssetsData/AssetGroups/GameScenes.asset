@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: GameScenes
+  m_EditorClassIdentifier: 
+  m_GroupName: GameScenes
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 319fff791af54e641a72fdb35fd0e82e
+  m_SerializeEntries:
+  - m_GUID: c850ee8c3b14cc8459e7e186857cf567
+    m_Address: GameScene
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 926cab0427296ca4aa0fbf44a6e2ded4
+    m_Address: PersistentManagers
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5cceb8a9c0000f4f9677f9f228535a2
+    m_Address: VictoryScene
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a85c3159a060e694aa7f1643a4f429aa
+    m_Address: DefeatScene
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 4d3ee93ed2034c64fb3d177bbbc692f5, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9702ca7c0402663479bd3c177b027695, type: 2}
+    - {fileID: 11400000, guid: 7a095833a6610f7489cd4cbc2b3da62f, type: 2}

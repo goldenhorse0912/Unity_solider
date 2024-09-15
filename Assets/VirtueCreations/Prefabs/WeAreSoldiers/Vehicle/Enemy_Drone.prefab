@@ -1,0 +1,208 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2233495043473290485
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 967085928645033627, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 967085928645033627, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 967085928645033627, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 967085928645033627, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 967085928645033627, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 967085928645033627, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 967085928645033627, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 967085928645033627, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 967085928645033627, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 967085928645033627, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 969792580572048080, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 426d8f29546120344a79121df11420f7, type: 2}
+    - target: {fileID: 1161451736619905020, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 426d8f29546120344a79121df11420f7, type: 2}
+    - target: {fileID: 3234046084570325522, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3234046084570325522, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3712946958246943665, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: healthAmountMax
+      value: 600
+      objectReference: {fileID: 0}
+    - target: {fileID: 5202626624371550750, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 426d8f29546120344a79121df11420f7, type: 2}
+    - target: {fileID: 5656883348081812381, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: isPlayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5656883348081812381, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: troopData
+      value: 
+      objectReference: {fileID: 11400000, guid: 60c8fc09ef097c24c9d3085d55bc4819,
+        type: 2}
+    - target: {fileID: 5656883348081812381, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: spawnEvent
+      value: 
+      objectReference: {fileID: 11400000, guid: 5728049eb19bf6f42b2fed37ffb6b772,
+        type: 2}
+    - target: {fileID: 5656883348081812381, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: collectibleValue
+      value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 5922867372168766662, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 426d8f29546120344a79121df11420f7, type: 2}
+    - target: {fileID: 6014769474018775443, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: gameEvent
+      value: 
+      objectReference: {fileID: 11400000, guid: 17ca6dc538af3c043b74253543769452,
+        type: 2}
+    - target: {fileID: 7542378607794955884, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: m_Name
+      value: Enemy_Drone
+      objectReference: {fileID: 0}
+    - target: {fileID: 7542378607794955884, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: m_Layer
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 8456825196469569429, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 426d8f29546120344a79121df11420f7, type: 2}
+    - target: {fileID: 8469968349134043686, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 426d8f29546120344a79121df11420f7, type: 2}
+    - target: {fileID: 8583904678617726115, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 8940720128538787748, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 426d8f29546120344a79121df11420f7, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7542378607794955884, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7086783899134419917}
+  m_SourcePrefab: {fileID: 100100000, guid: fe858c4bb2e6e284e9e3bd0f742e630d, type: 3}
+--- !u!114 &5800564334588270440 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 5656883348081812381, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+    type: 3}
+  m_PrefabInstance: {fileID: 2233495043473290485}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8526755045382656665}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c77cc8ea697bbc247ad5accf1790668a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &8526755045382656665 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7542378607794955884, guid: fe858c4bb2e6e284e9e3bd0f742e630d,
+    type: 3}
+  m_PrefabInstance: {fileID: 2233495043473290485}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7086783899134419917
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8526755045382656665}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26db0e3b72f36874097b8385d63ff910, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  gameEvent: {fileID: 11400000, guid: 4e44d1fa2574e6246b91f3c18e88754b, type: 2}
+  unityEventResponse:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 5800564334588270440}
+        m_TargetAssemblyTypeName: VIRTUE.FlyingVehicle, VirtueCreations.Scripts
+        m_MethodName: AttackBuilding
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2

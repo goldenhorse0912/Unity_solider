@@ -1,0 +1,5 @@
+﻿__NameSpaceStart__
+__ClassTab__public static class __Class__ {
+__Constant_Properties__
+__ClassTab__}
+__NameSpaceEnd__
